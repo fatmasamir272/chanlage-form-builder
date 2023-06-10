@@ -6,14 +6,14 @@
 3. Rename or copy ```.env.example``` file to ``.env`` - ```copy .env.example .env```
 4. ```php artisan key:generate```
 5. Set your database credentials in your ```.env``` file
-7. php artisan migrate --seed
+7. php artisan migrate --seed for database migration and seed
 8. ```npm install```
 9. ```npm run watch```
 10. run command[laravel file manager]:-  ```php artisan storage:link```
 11. Edit ```.env``` file :- remove APP_URL
 10. ```php artisan serve``` or use virtual host
 11. Visit ```localhost:8000``` in your browser
-12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
+12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```12345```.
 
 
 
@@ -26,7 +26,7 @@ Getting form from form builder
 
 3- there is a url that will show the url with out authorize for client side
 
-
+in below images there are examples for result
 
 ![screencapture-localhost-8000-login-2023-06-10-20_24_15](https://github.com/fatmasamir272/chanlage-form-builder/assets/61781331/9d3205fe-49f6-4502-b690-9167a1a9a836)
 ![screencapture-localhost-8000-form-3-2023-06-10-18_25_01](https://github.com/fatmasamir272/chanlage-form-builder/assets/61781331/c7a97a72-74f4-4536-925f-52ba8e8e0eff)
