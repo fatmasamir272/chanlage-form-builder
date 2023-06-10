@@ -12,6 +12,10 @@ Set your database credentials in your .env file
 
 migrate database by php artisan migrtae --seed
 
+npm install
+
+npm run watch
+
 php artisan storage:link
 
 Edit .env file and update FRONT_URL that will show forms from front side
