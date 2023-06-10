@@ -10,10 +10,10 @@
 8. ```npm install```
 9. ```npm run watch```
 10. run command[laravel file manager]:-  ```php artisan storage:link```
-11. Edit ```.env``` file :- remove APP_URL
-10. ```php artisan serve``` or use virtual host
-11. Visit ```localhost:8000``` in your browser
-12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```12345```.
+11. ```php artisan serve``` or use virtual host
+12. Visit ```localhost:8000``` in your browser
+13. Edit ```.env``` file :-  update FRONT_URL for url that you used to run project
+14. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```12345```.
 
 
 
