@@ -21,3 +21,8 @@ php artisan serve or use virtual host
 Visit localhost:8000 in your browser
 
 Visit /admin/dashboard if you want to access the admin panel. Admin Email/Password: admin@gmail.com/12345.
+
+Form
+1- when you create you first form after login 
+2- you will go to form page to show your created form
+3- there is a url that will show the url with out authorize for client side
